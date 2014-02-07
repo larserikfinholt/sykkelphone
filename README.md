@@ -1,6 +1,7 @@
-ionic-angular-cordova-seed
+Komme igang
 ==========================
 
-The perfect starting point for an Ionic project.
-
-- [Ionic Tutorials](http://ionicframework.com/tutorials/)
+- Installer ionic (http://ionicframework.com/tutorials/)
+- grunt serve
+- cordova build android
+- cordova run android
